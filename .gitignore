@@ -8,3 +8,4 @@ lectures/
 notebooks/*solutions*.ipynb
 renku_context.txt
 adult.zip
+data/mine/
